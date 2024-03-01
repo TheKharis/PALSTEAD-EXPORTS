@@ -1,0 +1,9 @@
+.container {
+width: 1024px;
+margin-right: auto;
+margin-left: auto;
+}
+header {
+    height: 200px;
+    background-color: antiquewhite;
+}
